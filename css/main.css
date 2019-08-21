@@ -548,4 +548,17 @@ address {
       background: #a6cae4;
       border: 1px solid #60a0ce;
       color: #24577b; }
+
+.leaflet-popup {
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 1.5px;
+  font-size: 15px; }
+  .leaflet-popup .leaflet-popup-content-wrapper {
+    padding: 10px 20px; }
+    .leaflet-popup .leaflet-popup-content-wrapper .leaflet-popup-content {
+      padding: 10px 0px;
+      margin: 5px;
+      border-radius: 10px;
+      color: black;
+      text-align: center; }
 /*# sourceMappingURL=main.css.map */
