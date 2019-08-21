@@ -510,7 +510,7 @@ input[type='submit'] {
   position: relative;
   box-sizing: border-box; }
 
-section {
+section#view {
   height: 100vh;
   width: 100vw; }
 

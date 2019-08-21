@@ -22,7 +22,7 @@ function initMap() {
 
   // ---------------------------------- AVAILABLE STYLING - [Here Mapbox] ----------------------------------> //
 
-  // DEFINE LAYERS
+  // DEFINE LAYER VIEWS
 
   // Define Street Layer
   var streetTile = L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
